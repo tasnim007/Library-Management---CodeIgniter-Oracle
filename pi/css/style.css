@@ -1,0 +1,145 @@
+
+body {
+	/*background: #542;*/
+	/*width: 1250px;*/
+	margin: 0 auto; 
+	background : rgb(98,165,219);
+     
+}
+#picture{
+	margin:0px;
+	width: 1250px;
+	height: 100px;
+	background : url(../img/buet.jpg);
+	
+}
+
+#sidepane{
+
+	float:left;
+	height:100%;
+	width:212px;
+	margin:0px;
+/*	background: rgb(157,188,167);*/
+}
+
+#sidepaneright{
+	float:right;
+    margin: .1em;
+	float : right;
+	width: 232px;
+	height:100%;
+/*	background : rgb(157,188,167);*/
+	
+}
+
+#signForm{
+	margin:.1em 12em  0;
+   /* padding: 1em;*/
+	width: 760px;
+	height: 150%;
+	/*background : rgb(145,188,200);*/
+	background: rgb(72,161,234); 
+	padding: 20px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: black;
+}
+#footer{
+
+	/*position:relative;
+	/*margin:.5em 2em 0 0;*/
+	/*margin-top: 50px;*/
+	width:1250px;
+	/*background : red;*/
+	/*background: rgb(58,113,201); 
+	height:30px;
+	font-color: white;*/
+}
+/*
+input[type = 'text']{
+
+    margin: 0 0 1em 0;
+    display: block;
+	border-color:black;
+	width:250px;
+	height: 25px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+input[type = 'password']{
+
+    margin: 0 0 1em 0;
+    display:block;
+	border-color:black;
+	width:250px;
+	height: 25px;
+}*/
+input[type = 'submit']{
+
+    border:black;
+    display:block;
+	background:olive;
+	width: 100px;
+	height: 30px;
+        
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: white;
+	margin: 1em 18em 0;
+	
+}
+
+input[type = 'submit']:hover{
+
+    color: black;
+    cursor:pointer;
+}
+
+/*h1{
+
+    font-size:inherit;
+    margin:50px 200px 0;
+}
+*/
+#pp{
+
+	border-color:black;
+	border-left:1em;
+	border-right:1em;
+	border-top:1em;
+	width: 162px;
+	text-align:center;
+}
+
+#log{
+    width: 500px;
+	border-color: black;
+	margin: 100px auto 0;
+	padding: 1em;
+	height: 409px;
+	background : rgb(145,188,200);
+	/*font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;*/
+	font-size: 18px;
+	color: black;
+	
+}
+#log a{
+
+    border:inherit;
+    background:olive;
+    padding :.15em;
+    text-decoration:none;
+    font:normal;
+    color:white;
+}
+#log a:hover{
+
+    
+    background: #3480BB;
+    padding : 0.15em;
+    text-decoration:none;
+    font:normal;
+    color:black;
+}
+

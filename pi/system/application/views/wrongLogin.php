@@ -1,0 +1,1 @@
+<div align="center" style="color:white"><?php echo $msg;?>   <a href ="welcome/index" style="color:red">Login</a></div>
