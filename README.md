@@ -1,4 +1,4 @@
-# Library-Management---CodeIgniter-Oracle
+# Library-Management System - CodeIgniter-Oracle
 
 ## Objective:
 The aim of this project is to design and implement an online library system, which will enable users to search for books and browse information about books, thesis and journals. 
